@@ -12,8 +12,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Website URL
 
-https://georgeboholteanu.github.io/horiseon-website-refactor/
+https://georgeboholteanu.github.io/horiseon-web-refactor/
 
 ## Github Repo
 
-https://github.com/georgeboholteanu/horiseon-website-refactor
+https://github.com/georgeboholteanu/horiseon-web-refactor
